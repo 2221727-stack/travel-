@@ -1,0 +1,55 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gallery</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins&family=Playfair+Display&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- Name -->
+<!-- ID -->
+
+<header>
+<h1>Gallery</h1>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="destinations.html">Destinations</a>
+<a href="gallery.html">Gallery</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<section>
+
+<div class="grid-container">
+
+<img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600">
+
+<img src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=600">
+
+<img src="https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=600">
+
+<img src="https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=600">
+
+</div>
+
+<p>These images represent beautiful places and landscapes.</p>
+
+<p>Tourism helps people enjoy nature and culture.</p>
+
+</section>
+
+<footer>
+Travel Bangladesh
+</footer>
+
+</body>
+</html>
+```
